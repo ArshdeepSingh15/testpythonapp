@@ -3,7 +3,7 @@
 import os
 import sys
 #importing
-
+#2nd comment
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'password_generator.settings')
     try:
